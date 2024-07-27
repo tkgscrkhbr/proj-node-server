@@ -1,0 +1,9 @@
+.app-header {
+    padding: .8em;
+    background-color: lightblue;
+}
+
+.app-header nav {
+    display: flex;
+    gap: 10px;
+}

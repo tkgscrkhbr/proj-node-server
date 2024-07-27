@@ -1,0 +1,14 @@
+.car-details {
+    display: grid;
+    
+    padding: 10px;
+    background-color: lightsteelblue;
+    margin-block-start: 10px;
+}
+.car-details img{
+    width: 200px;
+    justify-self: center;
+}
+.car-details button{
+    justify-self: end;
+}

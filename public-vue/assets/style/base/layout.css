@@ -1,0 +1,15 @@
+.main-layout {
+  margin: 0 auto;
+  padding-left: 1.6rem;
+  padding-right: 1.6rem;
+}
+
+.container {
+  max-width: 1100px;
+  padding: 1em;
+  margin: auto;
+}
+
+.router-view {
+    min-height: calc(90vh - 3rem);
+}
